@@ -4,9 +4,9 @@ eureka:
       defaultZone: http://localhost:8761/eureka/
 spring:
   boot:
-	  admin:
-	    client:
-			  url: http://localhost:8788
+    admin:
+      client:
+        url: http://localhost:8788
 management:
   endpoints:
     web:
