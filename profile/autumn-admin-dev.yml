@@ -1,0 +1,5 @@
+server:
+  port: 8788
+spring:
+  application:
+    name: autumn-admin
