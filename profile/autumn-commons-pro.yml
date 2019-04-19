@@ -7,6 +7,8 @@ spring:
     admin:
       client:
         url: http://192.168.112.128:8788
+  zipkin:
+    base-url: http://192.168.112.128:9411/
 management:
   endpoints:
     web:
